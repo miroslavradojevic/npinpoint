@@ -1,0 +1,26 @@
+## use regexp syntax.
+syntax: regexp
+
+^.metadata/ 	# root folder
+^.settings/	# root folder
+^build/		# to ignore the whole folder use this one
+## use glob syntax.
+syntax: glob
+
+*~
+*.jar
+*.class
+*.iml
+*.properties
+advantra/*.jar
+advantra/*.class
+advantra/build
+advantra/build/*
+advantra/bin
+
+.classpath
+.project
+.externalToolBuilders
+.settings
+.metadata
+.idea

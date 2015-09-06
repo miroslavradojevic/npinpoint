@@ -2,5 +2,5 @@
 
 ### Contents ###
 
-* Quick summary
-* Version
+* ImageJ jar
+* ImageJ plugin source

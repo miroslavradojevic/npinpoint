@@ -6,9 +6,10 @@ Repository consists of image/java source code and compiled jar for the code acco
 
 ### Contents ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Source code
+* Compiled binary npinpoint_.jar
+#* Version
+#* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 

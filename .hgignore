@@ -8,7 +8,7 @@ syntax: regexp
 syntax: glob
 
 *~
-*.jar
+#*.jar
 *.class
 *.iml
 *.properties

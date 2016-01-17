@@ -1,8 +1,8 @@
 # Fuzzy-Logic Based Detection and Characterization of Junctions and Terminations in Fluorescence Microscopy Images of Neurons #
 
-Repository consists of image/java source code and compiled jar for the 
-
 http://dx.doi.org/10.1007/s12021-015-9287-0
+
+Repository consists of image/java source code and compiled jar for the code accompanying the publication. 
 
 ### Contents ###
 

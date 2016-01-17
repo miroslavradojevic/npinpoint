@@ -14,6 +14,7 @@ Repository consists of imageJ/java source code and compiled jar for the software
 * Build src folder contents into build directory
 * Compress the contents of the build directory as jar
 * Dependencies: ij.jar
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Who do I talk to? ###
 

@@ -1,4 +1,5 @@
-import auxiliary.Stat;
+package com.braincadet.npinpoint;
+
 import ij.IJ;
 import ij.ImageStack;
 

@@ -1,5 +1,5 @@
-import auxiliary.ReadDET;
-import auxiliary.Tools;
+package com.braincadet.npinpoint;
+
 import ij.IJ;
 import ij.ImagePlus;
 import ij.gui.*;

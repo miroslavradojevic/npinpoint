@@ -1,4 +1,4 @@
-/** modified code of the ImageJ plugin "Find Connected Regions" under the terms of the GNU General Public License
+package com.braincadet.npinpoint; /** modified code of the ImageJ plugin "Find Connected Regions" under the terms of the GNU General Public License
     Copyright 2006, 2007 Mark Longair
     modified by Miroslav Radojevic 15-01-16
     find connected regions with the same value in 8 bit images */

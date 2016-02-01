@@ -1,4 +1,5 @@
-import auxiliary.Stat;
+package com.braincadet.npinpoint;
+
 import ij.ImagePlus;
 import ij.io.FileSaver;
 import ij.process.ByteProcessor;

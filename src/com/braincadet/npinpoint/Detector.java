@@ -1,7 +1,5 @@
-import auxiliary.ClusterDirections;
-import auxiliary.EntrTh;
-import auxiliary.ReadDET;
-import auxiliary.Stat;
+package com.braincadet.npinpoint;
+
 import ij.IJ;
 import ij.ImagePlus;
 import ij.ImageStack;

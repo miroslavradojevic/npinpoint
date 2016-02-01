@@ -1,4 +1,4 @@
-package auxiliary;
+package com.braincadet.npinpoint;
 
 import java.util.ArrayList;
 /** cluster directions using mean-shift */

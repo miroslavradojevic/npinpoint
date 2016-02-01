@@ -1,4 +1,4 @@
-package auxiliary;
+package com.braincadet.npinpoint;
 
 import ij.gui.Plot;
 
@@ -9,7 +9,7 @@ import java.util.Random;
 /** histogram tools */
 public class Hist {
 
-    // java -cp "$HOME/critpoint/*:$HOME/jarlib/*" auxiliary.Hist
+    // java -cp "$HOME/critpoint/*:$HOME/jarlib/*" Hist
     public static void main(String[] args) {
 
         System.out.println("test histogram...");

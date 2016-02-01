@@ -1,4 +1,5 @@
-import auxiliary.Interpolator;
+package com.braincadet.npinpoint;
+
 import ij.ImageStack;
 
 /** */

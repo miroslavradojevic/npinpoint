@@ -1,3 +1,5 @@
+package com.braincadet.npinpoint;
+
 import java.util.Arrays;
 
 /** loop through the features extracted at each location and makes the fuzzy detection reading from the extracted features */

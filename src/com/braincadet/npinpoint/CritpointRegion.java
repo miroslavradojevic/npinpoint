@@ -1,3 +1,5 @@
+package com.braincadet.npinpoint;
+
 import java.awt.*;
 
 /**  */

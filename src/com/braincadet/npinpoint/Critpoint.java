@@ -1,3 +1,5 @@
+package com.braincadet.npinpoint;
+
 import ij.*;
 import ij.gui.*;
 import ij.io.OpenDialog;

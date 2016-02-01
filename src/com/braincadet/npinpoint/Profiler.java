@@ -1,6 +1,7 @@
+package com.braincadet.npinpoint;
+
 import ij.ImageStack;
 import ij.gui.Plot;
-import ij.process.ImageProcessor;
 
 /** use selected list of foreground locations and extracts profiles from those locations */
 public class Profiler extends Thread {

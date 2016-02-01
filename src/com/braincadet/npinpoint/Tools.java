@@ -1,4 +1,4 @@
-package auxiliary;
+package com.braincadet.npinpoint;
 
 import ij.ImagePlus;
 import ij.gui.PolygonRoi;

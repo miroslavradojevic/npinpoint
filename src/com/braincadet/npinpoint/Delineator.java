@@ -1,6 +1,5 @@
-import auxiliary.Hist;
-import auxiliary.Interpolator;
-import auxiliary.Stat;
+package com.braincadet.npinpoint;
+
 import ij.ImageStack;
 import ij.gui.Line;
 import ij.gui.OvalRoi;

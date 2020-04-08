@@ -21,4 +21,3 @@ This code is distributed under the terms of the [Creative Commons Attribution 4.
 ### Contact ###
 * Miroslav Radojevic
 * miroslav.radojevic@gmail.com
-* m.radojevic@erasmusmc.nl
